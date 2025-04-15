@@ -61,7 +61,7 @@
 
 | Файл | Описание |
 |------|----------|
-| `guessing_game.py` | Ручная игра |
+| [`guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/guessing_game.py) | Ручная игра |
 | `auto_guessing_game.py` | Автоматический рандомный подбор |
 | `smart_guessing_game.py` | Умный алгоритм + график |
 | `attempts_distribution.png` | График сравнения алгоритмов |
