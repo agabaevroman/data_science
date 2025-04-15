@@ -76,10 +76,10 @@ _Ниже представлено сравнение трёх подходов.
 
 | Файл | Описание |
 |------|----------|
-| `guessing_game.py` | Ручная игра |
-| `auto_guessing_game.py` | Алгоритм случайного угадывания |
-| `correction_guessing_game.py` | Угадывание с коррекцией |
-| `binary_guessing_game.py` | Бинарный алгоритм с коррекцией + график |
-| `attempts_distribution.png` | График сравнения алгоритмов |
-| `requirements.txt` | Версии библиотек |
+| [`guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/guessing_game.py) | Ручная игра |
+| [`auto_guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/auto_guessing_game.py) | Алгоритм случайного угадывания |
+| [`correction_guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/correction_guessing_game.py) | Угадывание с коррекцией |
+| [`binary_guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/binary_guessing_game.py) | Бинарный алгоритм с коррекцией + график |
+| [`attempts_distribution.png`](https://github.com/agabaevroman/data_science/blob/main/project_0/attempts_distribution.png) | График сравнения алгоритмов |
+| [`requirements.txt`](https://github.com/agabaevroman/data_science/blob/main/project_0/requirements.txt) | Версии библиотек |
 | [`Colab-проект`](https://colab.research.google.com/drive/1h1-4_EuopQUlP5aNHmRNWiK8IgCFm0cu?usp=sharing) | Ноутбук с визуализациями и кодом |
