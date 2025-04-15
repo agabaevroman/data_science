@@ -65,4 +65,4 @@
 | `auto_guessing_game.py` | Автоматический рандомный подбор |
 | `smart_guessing_game.py` | Умный алгоритм + график |
 | `attempts_distribution.png` | График сравнения алгоритмов |
-| `README.md` | Этот файл |
+| `requirements.txt` | Версии библиотек |
