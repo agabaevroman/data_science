@@ -82,4 +82,4 @@ _Ниже представлено сравнение трёх подходов.
 | `binary_guessing_game.py` | Бинарный алгоритм с коррекцией + график |
 | `attempts_distribution.png` | График сравнения алгоритмов |
 | `requirements.txt` | Версии библиотек |
-| [Colab-проект](https://colab.research.google.com/drive/1h1-4_EuopQUlP5aNHmRNWiK8IgCFm0cu?usp=sharing) | Ноутбук с визуализациями и кодом |
+| [`Colab-проект`](https://colab.research.google.com/drive/1h1-4_EuopQUlP5aNHmRNWiK8IgCFm0cu?usp=sharing) | Ноутбук с визуализациями и кодом |
