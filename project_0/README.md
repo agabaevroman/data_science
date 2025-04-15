@@ -62,7 +62,7 @@
 | Файл | Описание |
 |------|----------|
 | [`guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/guessing_game.py) | Ручная игра |
-| `auto_guessing_game.py` | Автоматический рандомный подбор |
-| `smart_guessing_game.py` | Умный алгоритм + график |
-| `attempts_distribution.png` | График сравнения алгоритмов |
-| `requirements.txt` | Версии библиотек |
+| [`auto_guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/auto_guessing_game.py) | Автоматический рандомный подбор |
+| [`smart_guessing_game.py`](https://github.com/agabaevroman/data_science/blob/main/project_0/smart_guessing_game.py) | Умный алгоритм + график |
+| [`attempts_distribution.png`](https://github.com/agabaevroman/data_science/blob/main/project_0/attempts_distribution.png) | График сравнения алгоритмов |
+| [`requirements.txt`](https://github.com/agabaevroman/data_science/blob/main/project_0/requirements.txt) | Версии библиотек |
